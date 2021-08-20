@@ -1,7 +1,7 @@
-print('hi')
+<center>print('hi')</center>  
 ======
 
-__Hello, world's great developers!                                               # 전세계의 멋진 개발자 여러분, 안녕하세요!__
+<center>  __Hello, world's great developers!   </center>                                            # 전세계의 멋진 개발자 여러분, 안녕하세요!__
 
 __I am a college student studying deep learning and computer vision in Korea.    # 저는 한국에서 딥러닝과 컴퓨터 비전을 공부하는 학생입니다.__
 
