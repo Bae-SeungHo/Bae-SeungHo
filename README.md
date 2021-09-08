@@ -1,5 +1,9 @@
 print('hi')
 ======
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBae-SeungHo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ```python
  Hello, world's great developers!                                              # 전세계의 멋진 개발자 여러분, 안녕하세요!
 
@@ -11,8 +15,9 @@ Any questions are welcome. Let's study computer deeply together!               #
 ```
 <!--
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBae-SeungHo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-**Bae-SeungHo/Bae-SeungHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
