@@ -15,6 +15,8 @@ Any questions are welcome. Let's study computer deeply together!               #
 ```
 
 
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Bae-SeungHo)](https://github.com/Bae-SeungHo)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae-SeungHo)](https://github.com/Bae-SeungHo/github-readme-stats)
 
