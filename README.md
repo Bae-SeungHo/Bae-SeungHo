@@ -13,12 +13,14 @@ I'd like to share with you the knowledge that I learned while studying.        #
 
 Any questions are welcome. Let's study computer deeply together!               # 어떤 질문이든 환영합니다. 같이 컴퓨터에 대해 깊히 공부해 봅시다!
 ```
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=****)](https://github.com/****/github-readme-stats)
+
+
+
 <!--
-
-
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
